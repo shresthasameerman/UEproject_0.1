@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -72,3 +73,25 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+=======
+# Unreal Engine specific ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.tmp
+*.log
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.user
+*.workspace
+*.project
+Build/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+>>>>>>> a0cde2f (Initial UE5.4.4 project commit)
