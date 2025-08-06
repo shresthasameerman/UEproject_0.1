@@ -26,15 +26,12 @@
 		{
 			"Name": "WaterExtras",
 			"Enabled": true
-		},
-		{
-			"Name": "MetaHumanCharacter",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"Linux",
 		"LinuxArm64",
-		"Windows"
+		"Windows",
+		"Android"
 	]
 }
